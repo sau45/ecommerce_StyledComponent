@@ -5,10 +5,23 @@ Welcome to the DevTown E-Commerce website! This is a modern, stylish, and user-f
 ## Features
 
 ### 1. User-friendly Interface
+
 DevTown is designed with a user-friendly interface, making it easy for customers to navigate and find their desired products.
 
 ### 2. Responsive Design
+
 Our website is fully responsive, ensuring a consistent and enjoyable shopping experience on any device, whether it's a desktop, tablet, or smartphone.
+
+ ## 3.  Pagination and Filtering
+ 
+DevTown includes pagination to split product listings into multiple pages, and filtering options to sort products by category and price, allowing customers to find products more efficiently.
+
+##Screenshots
+![image](https://github.com/sau45/ecommerce_StyledComponent/assets/87286258/5876a1ec-8845-4691-b2ef-863d41c49439)
+
+![image](https://github.com/sau45/ecommerce_StyledComponent/assets/87286258/f64fc0f8-c776-45df-a2c7-ecb7aa10e862)
+
+![image](https://github.com/sau45/ecommerce_StyledComponent/assets/87286258/7947806d-3eb5-41fc-9740-c3084d0371a5)
 
 
 ## Installation and Usage
